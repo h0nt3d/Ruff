@@ -1,2 +1,2 @@
-**Ruff Discord Bot**
-
+# **_Ruff_**
+A simple discord bot
